@@ -3,21 +3,21 @@
 * [Dataset Link](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
 ## Table of Contents
-___
 ### Imports
 ___
 ### Upload Data
+___
 * Data Preprocess
 * Build Dataset
-___
 ### Model Building
-* Check Architecture & Size
 ___
+* Check Architecture & Size
 ### Training
+___
 * Training Loop
 * Training Graph
-___
 ### Results
+___
 * Generate New Images
 * Plot Generated Images
 ___
