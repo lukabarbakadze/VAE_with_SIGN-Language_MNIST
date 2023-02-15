@@ -1,4 +1,4 @@
-# Variational Autoencoder with SIGN-Language MNIST
+# Variational Autoencoder with SIGN-Language MNIST from scratch
 * [Auto-Encoding Variational Bayes Paper](https://arxiv.org/abs/1312.6114)
 * [Dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist)
 
